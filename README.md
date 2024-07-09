@@ -16,7 +16,8 @@ This is a simple Rock-Paper-Scissors game implemented in Python. The game allows
 
 - Simple command-line interface
 - Randomized computer moves
-- Clear and concise win/loss messages
+- Randomized computer moves using the `random` module
+- Use of `enum` for better code organization
 
 ## Requirements
 
